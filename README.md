@@ -1,2 +1,16 @@
-# 5r2026-website1
-Erste Textseite
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Meine erste Website</title>
+</head>
+<body>
+
+<h1>Hallo Welt!</h1>
+<p>Das ist meine erste eigene Webseite.</p>
+
+</body>
+</html>
+
+
